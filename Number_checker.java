@@ -3,7 +3,7 @@ import java.util.*;
 //checks the number is positive or negetive.
 class Number_checker{
     public static void main(String args[]){
-        System.out.println("enter the number");
+        System.out.println("Enter the number");
         Scanner sc = new Scanner(System.in);
         double n = sc.nextDouble();
 
